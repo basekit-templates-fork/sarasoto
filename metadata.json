@@ -1,7 +1,7 @@
 {
 	"name":"Sarasoto",
 	"thumbnail":"thumbnail.png",
-	"screenshot":"thumbnail.png",
+	"screenshot":"sarasoto-screenshot.png",
     "templateType":"standard",
 	"pageTypes":[
 		"home"
